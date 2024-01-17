@@ -3,7 +3,7 @@
 - 🔭 Menor Aprendiz de Programação de Sistemas
 - 🌱 Estudante de Back End e Java
 - 💬 Em constante evolução ...
-- 👨‍💻 Linkedin <img align="center" alt="Piske-Linkedin" height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+- 👨‍💻 Linkedin <a href="https://br.linkedin.com/in/gabriel-piske" target="_blank"><img align="center" alt="Piske-Linkedin" height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Piske-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
