@@ -1,14 +1,12 @@
-### Olá! Eu sou o Gabriel S Piske 👋
+<code>System.out.println("Welcome to my github!😆")</code>
 
-- 🔭 Menor Aprendiz de Programação de Sistemas
-- 📚 Cursando Técnico em Desenvolvimento de Sistemas
-- 🌱 Estudante de Back End e Java
-- 💬 Em constante evolução ...
-- 👨‍💻 Linkedin <a href="https://br.linkedin.com/in/gabriel-piske" target="_blank"><img align="center" alt="Piske-Linkedin" height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+<hr>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Piske-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
-  <img align="center" alt="Piske-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Piske-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Piske-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+- <p>📚 Técnico em Desenvolvimento de Sistemas 1/4</p>
+- <p>🖥 Menor Aprendiz em Programação de Sistemas</p>
+- <p>🌐 Cursando Cisco CCNA 1 - Introdução a Redes</p>
+- <p>👨‍💻 Linkedin <a href="https://br.linkedin.com/in/gabriel-piske" target="_blank"><img align="center" alt="Piske-Linkedin" height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></p>
+
+<hr>
+
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,git&theme=dark)](https://skillicons.dev)
