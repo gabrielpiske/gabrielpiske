@@ -4,7 +4,6 @@
 
 - <p>📚 Técnico em Desenvolvimento de Sistemas 1/4</p>
 - <p>🖥 Menor Aprendiz em Programação de Sistemas</p>
-- <p>🌐 Cursando Cisco CCNA 1 - Introdução a Redes</p>
 - <p>👨‍💻 Linkedin <a href="https://br.linkedin.com/in/gabriel-piske" target="_blank"><img align="center" alt="Piske-Linkedin" height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></p>
 
 <hr>
