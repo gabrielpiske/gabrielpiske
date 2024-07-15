@@ -1,11 +1,20 @@
-<code>System.out.println("Welcome to my github!😆");</code>
+## <code>System.out.println("Welcome to my github!😆");</code>
 
-## Sobre mim:
-- <p>😉 Me chamo Gabriel Schwder Piske, tenho 17 anos.</p>
-- <p>📚 Atualmete estou cursando Técnico em Desenvolvimento de Sistemas 1/4</p>
-- <p>🖥 Também sou Menor Aprendiz em Programação de Sistemas</p>
-- <a href="https://br.linkedin.com/in/gabriel-piske" target="_blank"><img align="center" alt="Piske-Linkedin" height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> Linkedin</a>
+Sou Gabriel Schwder Piske, tenho 17 anos, atualmente cursando Técnico em Desenvolvimento de Sistemas (1/4) e Menor Aprendiz em Programação de Sistemas.
+
 
 ## Principais Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,git&theme=dark)](https://skillicons.dev)
+<table>
+ <a href="https://github.com/danielcandidocruz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpiske&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpiske&layout=compact&langs_count=6&theme=tokyonight"/>
+</table>
+
+  [![My Skills](https://skillicons.dev/icons?i=java,mysql,git&theme=dark)](https://skillicons.dev)
+
+## Conecte-se comigo!
+<div> 
+  <a href = "mailto: gabriel.piske07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-piske" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
