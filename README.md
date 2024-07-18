@@ -1,6 +1,6 @@
 ## <code>System.out.println("Welcome to my github!😆");</code>
 
-Sou Gabriel Schweder Piske, tenho 17 anos, atualmente cursando Técnico em Desenvolvimento de Sistemas (1/4) e Jovem Aprendiz em Programação de Sistemas.
+Sou Gabriel Schweder Piske, tenho 17 anos, atualmente cursando Técnico em Desenvolvimento de Sistemas (2/4) e Jovem Aprendiz em Programação de Sistemas.
 
 <table>
  <a href="https://github.com/gabrielpiske">
