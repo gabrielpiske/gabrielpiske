@@ -1,8 +1,5 @@
 ## <code>System.out.println("Welcome to my github!😆");</code>
 
-## Sobre Mim
-Sou Gabriel Schweder Piske, tenho 17 anos, atualmente cursando Técnico em Desenvolvimento de Sistemas (2/4) e Jovem Aprendiz em Programação de Sistemas.
-
 ## Conecte-se comigo!
 <div> 
   <a href="mailto:gabriel.piske07@gmail.com">
@@ -16,8 +13,13 @@ Sou Gabriel Schweder Piske, tenho 17 anos, atualmente cursando Técnico em Desen
   </a>
 </div>
 
-## 💻 Linguagens e Tecnologias
-  [![My Skills](https://skillicons.dev/icons?i=java,mysql,git,vscode&theme=dark)](https://skillicons.dev)
+## Sobre Mim
+Sou Gabriel Schweder Piske, tenho 17 anos, atualmente cursando Técnico em Desenvolvimento de Sistemas (2/4) e Jovem Aprendiz em Programação de Sistemas.
+
+## 💻 Tecnologias
+  [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,js,spring)](https://skillicons.dev)
+## 🔨 Ferramentas
+  [![My Skills](https://skillicons.dev/icons?i=vscode,git,postman)](https://skillicons.dev)
 
 ## 📊 Github Status
 <table>
