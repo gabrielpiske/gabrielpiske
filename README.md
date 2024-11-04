@@ -1,7 +1,6 @@
 ## <code>System.out.println("Welcome to my github!😆");</code>
 
-## Conecte-se comigo!
-<div> 
+### Conecte-se comigo!
   <a href="mailto:gabriel.piske07@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
@@ -11,19 +10,16 @@
   <a href="https://www.instagram.com/gabriel.piske07" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-</div>
 
-## Sobre Mim
+### Sobre Mim
 Sou Gabriel Schweder Piske, tenho 17 anos, atualmente cursando Técnico em Desenvolvimento de Sistemas (2/4) e Jovem Aprendiz em Programação de Sistemas.
 
-## 💻 Tecnologias
+### 💻 Tecnologias
   [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,js,spring)](https://skillicons.dev)
-## 🔨 Ferramentas
-  [![My Skills](https://skillicons.dev/icons?i=vscode,git,postman)](https://skillicons.dev)
 
-## 📊 Github Status
-<table>
- <a href="https://github.com/gabrielpiske">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpiske&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpiske&layout=compact&langs_count=4&theme=transparent"/>
-</table>
+<details>
+  <summary><h3>📊 Github Status</h3></summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=gabrielpiske&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpiske&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
