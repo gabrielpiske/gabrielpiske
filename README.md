@@ -12,7 +12,7 @@
   </a>
 
 ### Sobre Mim
-Sou Gabriel Schweder Piske, tenho 17 anos, atualmente cursando Técnico em Desenvolvimento de Sistemas (2/4) e Jovem Aprendiz em Programação de Sistemas.
+Sou Gabriel Schweder Piske, tenho 17 anos, cursando Técnico em Desenvolvimento de Sistemas (2/4). Atualmente desenvolvo projetos com Java e Spring Boot, desenvolvendo soluções web com HTML, CSS e MySQL, com foco em eficiência e segurança de dados.
 
 ### 💻 Tecnologias
   [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,js,spring)](https://skillicons.dev)
