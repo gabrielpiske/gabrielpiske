@@ -16,6 +16,11 @@ Sou Gabriel Schweder Piske, tenho 17 anos, cursando Técnico em Desenvolvimento 
 
 ### 💻 Tecnologias
   [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,js,spring)](https://skillicons.dev)
+  
+Aqui você encontrará alguns projetos focados nas seguintes tecnologias:
+<p>-Java</p> 
+<p>-Spring Boot (Web, Data JPA, Security)</p>
+<p>-Relational Databases (SQL Server, MySQL)</p>
 
 ### 📊 Github Status</h3>
 <table>
