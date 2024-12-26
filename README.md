@@ -20,6 +20,6 @@ Sou Gabriel Schweder Piske, tenho 17 anos, cursando Técnico em Desenvolvimento 
 ### 📊 Github Status</h3>
 <table>
   <a href="https://github.com/gabrielpiske">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpiske&show_icons=true&theme=transparent&include_all_commits=true&count_private=false&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpiske&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpiske&layout=compact&langs_count=6&theme=transparent&hide_border=true"/>
 </table>
