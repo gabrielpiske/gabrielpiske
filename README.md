@@ -1,30 +1,63 @@
-## <code>System.out.println("Welcome to my github!😆");</code>
+<h1 align="center">👋 Olá, eu sou Gabriel Piske</h1>
+<h3 align="center">Desenvolvedor Backend • Java | Spring Boot | MySQL</h3>
 
-### Conecte-se comigo!
+---
+
+🎯 **Sobre Mim**  
+Sou Gabriel Schweder Piske, estudante de Técnico em Desenvolvimento de Sistemas (3/4), com 17 anos. Tenho foco em desenvolvimento backend com Java e Spring Boot, integrando bancos de dados relacionais e construindo soluções eficientes e seguras para aplicações web.
+
+Atualmente, desenvolvo sistemas que envolvem:
+
+- Arquitetura MVC
+- Persistência com JPA / Hibernate
+- Segurança com Spring Security
+- Integração com bancos de dados (MySQL, SQL Server)
+- Implantação e testes com Docker
+
+---
+
+🛠️ **Stack de Tecnologias**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,docker,git" />
+</div>
+
+> **Principais áreas de atuação:**
+> - Java com Spring Boot (Web, Data JPA, Security)
+> - CRUDs completos com Thymeleaf e REST APIs
+> - Modelagem e relacionamento de dados
+> - Projetos acadêmicos aplicando boas práticas e padrões de projeto
+
+---
+
+📈 **Estatísticas GitHub**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpiske&show_icons=true&theme=transparent&include_all_commits=true&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpiske&layout=compact&langs_count=6&theme=transparent&hide_border=false&hide=portugol"/>
+</div>
+
+
+---
+
+🌐 **Conecte-se Comigo**
+
+<p align="center">
   <a href="mailto:gabriel.piske07@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-piske" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/gabriel.piske07" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</p>
 
-### Sobre Mim
-Sou Gabriel Schweder Piske, tenho 17 anos, cursando Técnico em Desenvolvimento de Sistemas (3/4). Atualmente desenvolvo projetos com Java e Spring Boot, desenvolvendo soluções web com HTML, CSS e MySQL, com foco em eficiência e segurança de dados.
+---
 
-### 💻 Tecnologias
-  [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,js,spring,docker)](https://skillicons.dev)
-  
-Aqui você encontrará alguns projetos focados nas seguintes tecnologias:
-<p>-Java</p> 
-<p>-Spring Boot (Web, Data JPA, Security)</p>
-<p>-Relational Databases (SQL Server, MySQL)</p>
-
-### 📊 Github Status</h3>
-<table>
-  <a href="https://github.com/gabrielpiske">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpiske&show_icons=true&theme=transparent&include_all_commits=true&count_private=false&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpiske&layout=compact&langs_count=6&theme=transparent&hide_border=false"/>
-</table>
+🧠 **Atualmente estudando:**
+- Integração com APIs REST usando Spring
+- Otimização de queries SQL
+- Design Patterns
+- Automatização e deploy com Docker
