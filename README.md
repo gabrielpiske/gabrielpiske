@@ -19,14 +19,8 @@ Atualmente, desenvolvo sistemas que envolvem:
 🛠️ **Stack de Tecnologias**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,docker,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,js,docker,git" />
 </div>
-
-> **Principais áreas de atuação:**
-> - Java com Spring Boot (Web, Data JPA, Security)
-> - CRUDs completos com Thymeleaf e REST APIs
-> - Modelagem e relacionamento de dados
-> - Projetos acadêmicos aplicando boas práticas e padrões de projeto
 
 ---
 
