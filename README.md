@@ -6,14 +6,6 @@
 🎯 **Sobre Mim**  
 Sou Gabriel Schweder Piske, estudante de Técnico em Desenvolvimento de Sistemas (3/4), com 18 anos. Tenho foco em desenvolvimento backend com Java e Spring Boot, integrando bancos de dados relacionais e construindo soluções eficientes e seguras para aplicações web.
 
-Atualmente, desenvolvo sistemas que envolvem:
-
-- Arquitetura MVC
-- Persistência com JPA / Hibernate
-- Segurança com Spring Security
-- Integração com bancos de dados (MySQL, SQL Server)
-- Implantação e testes com Docker
-
 ---
 
 🛠️ **Stack de Tecnologias**
