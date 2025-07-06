@@ -1,34 +1,9 @@
-<h1 align="center">👋 Olá, eu sou Gabriel Piske</h1>
-<h3 align="center">Desenvolvedor Backend • Java | Spring Boot | MySQL</h3>
 
----
-
-🎯 **Sobre Mim**  
-Sou Gabriel Schweder Piske, estudante de Técnico em Desenvolvimento de Sistemas (3/4), com 18 anos. Tenho foco em desenvolvimento backend com Java e Spring Boot, integrando bancos de dados relacionais e construindo soluções eficientes e seguras para aplicações web.
-
----
-
-🛠️ **Stack de Tecnologias**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,js,docker,git" />
-</div>
-
----
-
-📈 **Estatísticas GitHub**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpiske&show_icons=true&theme=transparent&include_all_commits=true&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpiske&layout=compact&langs_count=6&theme=transparent&hide_border=false&hide=portugol"/>
-</div>
-
-
----
-
-🌐 **Conecte-se Comigo**
-
-<p align="center">
+<p>👨‍💻 Backend Developer Jr</p>
+<p>🎓 Studying Systems Development Technician at <a href="https://sc.senai.br/" target="blank_">Senai Timbó</a></p>
+<p>🧠 Currently studying: Integrating REST APIs with Spring, optimizing SQL queries, design patterns, and automating deployments with Docker.</p>
+<p>🌐 Conect with me</p>
+<p align="">
   <a href="mailto:gabriel.piske07@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -39,11 +14,6 @@ Sou Gabriel Schweder Piske, estudante de Técnico em Desenvolvimento de Sistemas
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+<hr>
 
----
-
-🧠 **Atualmente estudando:**
-- Integração com APIs REST usando Spring
-- Otimização de queries SQL
-- Design Patterns
-- Automatização e deploy com Docker
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,postgresql,mysql,docker,mongodb,git)](https://skillicons.dev)
