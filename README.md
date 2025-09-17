@@ -25,5 +25,5 @@
 
 ## 🛠️ Technologies and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,mongodb,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,hibernate,maven,postgresql,mysql,mongodb,docker,git,github" />
 </p>
