@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About me
-<p>🎓 Studying Systems Development Technician at <a href="https://sc.senai.br/" target="blank_">Senai Timbó</a></p>
+<p>🎓 Systems Development Technician at <a href="https://sc.senai.br/" target="blank_">Senai Timbó</a></p>
 <p>🧠 Currently studying: Integrating REST APIs with Spring, optimizing SQL queries, design patterns, and automating deployments with Docker.</p>
 
 
