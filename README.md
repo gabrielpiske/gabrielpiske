@@ -6,6 +6,7 @@
 
 ## 👨‍💻 About me
 <p>🎓 Systems Development Technician at <a href="https://sc.senai.br/" target="blank_">Senai Timbó</a></p>
+<p>👨‍🏫 Teaching Specialist at <a href="https://sc.senai.br/" target="blank_">Senai Timbó</a></p>
 <p>🧠 Currently studying: Integrating REST APIs with Spring, optimizing SQL queries, design patterns, and automating deployments with Docker.</p>
 
 
@@ -17,7 +18,7 @@
   <a href="https://www.linkedin.com/in/gabriel-piske" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/gabriel.piske07" target="_blank">
+  <a href="https://www.instagram.com/piske_gabriel" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
