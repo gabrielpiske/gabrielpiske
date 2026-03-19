@@ -8,6 +8,7 @@
 <p>🎓 Currently studying Analysis and Systems Development (ADS) at <a href="https://unisenaisc.com.br/" target="blank_">UniSenai</a></p>
 <p>🎓 Systems Development Technician at <a href="https://sc.senai.br/" target="blank_">Senai Timbó</a></p>
 <p>👨‍🏫 Teaching Specialist at <a href="https://sc.senai.br/" target="blank_">Senai Timbó</a></p>
+<p>👨‍🏫 Algorithms and Programming Logic Monitor in <a href="https://unisenaisc.com.br/" target="blank_">UniSenai</a></p>
 <p>🧠 Currently studying: Integrating REST APIs with Spring, optimizing SQL queries, design patterns, and automating deployments with Docker.</p>
 
 
