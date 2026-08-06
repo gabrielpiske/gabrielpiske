@@ -1,5 +1,5 @@
 ## 🌎 Connect with me
-<p align="center">
+<p align="">
   <a href="mailto:gabriel.piske07@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -15,7 +15,18 @@
 </p>
 
 
-## 🛠️ Technologies and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cpp,js,arduino,html,firebase,hibernate,maven,postgresql,mysql,mongodb,docker,git,github" />
+### Backend & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,js,html,hibernate" />
 </p>
+
+### Banco de Dados & Infra
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,docker" />
+</p>
+
+### Ferramentas & Hardware
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,maven,arduino" />
+</p>
+
