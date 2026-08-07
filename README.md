@@ -17,7 +17,7 @@
 
 ### Backend & Core
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,cpp,js,html,hibernate" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,js,ts,hibernate" />
 </p>
 
 ### Banco de Dados & Infra
