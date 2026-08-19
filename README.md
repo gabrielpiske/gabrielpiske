@@ -22,7 +22,7 @@
 
 ### Banco de Dados & Infra
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,docker" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,gcp,docker" />
 </p>
 
 ### Ferramentas & Hardware
