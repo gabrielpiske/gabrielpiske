@@ -20,12 +20,12 @@
   <img src="https://skillicons.dev/icons?i=java,spring,cpp,js,ts,hibernate" />
 </p>
 
-### Banco de Dados & Infra
+### Database & Infra
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,gcp,docker" />
 </p>
 
-### Ferramentas & Hardware
+### Tools & Hardware
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,maven,arduino" />
 </p>
