@@ -14,26 +14,28 @@
   </a>
 </p>
 
----
+
 
 ## 🛠️ Tech Stack
 
-### Backend & Core
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,cpp,js,ts,hibernate" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Backend & Hardware</b><br><br>
+      <img src="https://skillicons.dev/icons?i=java,spring,hibernate,js,ts,cpp,c,arduino&perline=4" />
+    </td>
+    <td align="center" width="33%">
+      <b>Database & Cloud</b><br><br>
+      <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,docker,gcp,vercel,githubactions&perline=4" />
+    </td>
+    <td align="center" width="33%">
+      <b>Tools & IDEs</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea,webstorm&perline=3" />
+    </td>
+  </tr>
+</table>
 
-### Database & Infra
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,gcp,docker" />
-</p>
 
-### Tools & Hardware
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,maven,arduino" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 <div align="left">
